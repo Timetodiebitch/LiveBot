@@ -1,3 +1,4 @@
+# Only affects a node_modules folder in the main directory
 node_modules
 
 # File types to emit
