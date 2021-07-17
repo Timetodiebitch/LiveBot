@@ -1,8 +1,11 @@
+node_modules
+
 # File types to emit
 *.log
 *.bat
 *.db
 *.exe
+
 # Some other files that don't need to be uploaded to github
 resources/app/json/logins.json
 resources/app/scripts/*
